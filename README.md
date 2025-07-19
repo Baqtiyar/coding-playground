@@ -1,4 +1,5 @@
-# coding-playground
+# ![icons8-python](https://github.com/user-attachments/assets/30164e4c-f461-488a-81f4-d3b9a3898d9b) coding-playground 
+
 
 Welcome to my Code Playground! 
 
